@@ -49,11 +49,11 @@ docker commit put_here_docker_id kuber:0.1
 ```
 
 ```
-docker tag kuber:0.1 bokovets/kuber:0.1
+docker tag kuber:0.1 avatardocker7/kuber:0.1
 ```
 
 ```
-docker tag kuber:latest bokovets/kuber:latest
+docker tag kuber:latest avatardocker7/kuber:latest
 ```
 
 ```
@@ -61,11 +61,11 @@ docker login
 ```
 
 ```
-docker push bokovets/kuber:0.1
+docker push avatardocker7/kuber:0.1
 ```
 
 ```
-docker push bokovets/kuber:latest
+docker push avatardocker7/kuber:latest
 ```
 
 ```
